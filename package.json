@@ -1,19 +1,30 @@
 {
-      "name": "Turn Shield FB ON",
-        "version": "1.5.0",
-          "description": "Just A Fun Code",
-            "main": "index.js",
-              "dependencies": {
-                      "cookie-parser": "^1.4.3",
-                          "express": "^4.16.3",
-                              "http": "0.0.0",
-                                  "request": "^2.85.0"
-                                    },
-                                      "devDependencies": {},
-                                        "scripts": {
-                                                "test": "echo \"Error: no test specified\" && exit 1"
-                                                  },
-                                                    "author": "Gr33ntii",
-                                                      "license": "MIT"
+  "name": "web",
+  "version": "2.4.1",
+  "description": "Token Shield",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "package": "^1.0.1",
+    "package.json": "^2.0.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr33ntii/shield_facebook.git"
+  },
+  "keywords": [
+    "UwU"
+  ],
+  "author": "Gr33ntii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gr33ntii/shield_facebook/issues"
+  },
+  "homepage": "https://github.com/gr33ntii/shield_facebook#readme"
 }
-
