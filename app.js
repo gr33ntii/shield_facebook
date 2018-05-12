@@ -10,7 +10,7 @@ var urlencodedParser = bodyParser.urlencoded({
 
 
 
-app.get('/', (req, res) => res.send("<head><meta charset='utf-8'/><title>ZmLhZGDlYwLYwVZD==</title></head><center>Gr33ntii Server Is Protected, privately </br> Want to get Mail Server paid 25$  </br>Need contact me ? </br> xolzsec@8chan[dot]co or gr33ntii@gmail[dot]com </br> <a href='https://facebook.com/0x80f700'> Facebook Account </a> </center>"));
+app.get('/', (req, res) => res.send("<script>window.location.replace('/khienfb');</script>"));
 
 
 app.get('/khienfb', (req, res) => {
