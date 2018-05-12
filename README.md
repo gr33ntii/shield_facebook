@@ -1,5 +1,8 @@
 # Turn On Facebook Shield Avatar
 
+First before start you need to download this one 
+NodeJs => https://nodejs.org/en/download/
+
 Step 1 :
 ```
 npm i package.json
