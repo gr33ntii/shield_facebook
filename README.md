@@ -5,7 +5,7 @@ NodeJs => https://nodejs.org/en/download/
 
 Step 1 :
 ```
-npm i package.json
+npm install
 ```
 
 Step 2 :
